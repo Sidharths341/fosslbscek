@@ -1,2 +1,2 @@
 # fosslbscek
-#This is the FOSS Club LBScek website repository.
+This is the FOSS Club LBScek website repository.
